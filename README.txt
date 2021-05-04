@@ -3,6 +3,11 @@ Final Project - README
 I attempted to make my final project GUI as user friendly as possible. Please see the below. 
 
 How to:
+2 Options:
+
+1.) Run Final_Project File Typ App
+
+or
 
 1.) Save Final_Project_GUI.m to Matlab directory.
 2.) Launch Matlab
